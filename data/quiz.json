@@ -1,0 +1,17 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "choices": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": 2
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "choices": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": 1
+    },
+    {
+      "question": "What is 2 + 2?",
+      "choices":["1","4","5","3"],
+      "answer":1
+    }
+]
